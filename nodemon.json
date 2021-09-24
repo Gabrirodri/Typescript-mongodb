@@ -1,4 +1,5 @@
 {
+  "ignore": ["node_modules","*.test.js",".gitignore"],
   "watch":["src"],
   "ext":"ts",
   "execMap":{
